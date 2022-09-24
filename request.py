@@ -31,3 +31,4 @@ async def create_item(item_id:int , item:Item , q:str|None = None):
     if q:
         result.update({"q":"kuch or"})
     return result
+
