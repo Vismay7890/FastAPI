@@ -5,6 +5,7 @@ lib/
 site-packages/
 .gitignore
 pyvenv.cfg
+include/
 # pyvenv.cfg/
 __pycache__/
 *.py[cod]
