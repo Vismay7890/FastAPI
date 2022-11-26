@@ -1,8 +1,10 @@
 # Byte-compiled / optimized / DLL files
 tutorial-env/
-# bin/
-# lib/
-# lib64/
+bin/
+lib/
+site-packages/
+.gitignore
+pyvenv.cfg
 # pyvenv.cfg/
 __pycache__/
 *.py[cod]
